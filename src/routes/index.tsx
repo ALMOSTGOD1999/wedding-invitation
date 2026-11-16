@@ -100,7 +100,6 @@ export const Route = createFileRoute("/")({
     scripts: [
       {
         type: "application/ld+json",
-        innerHTML: JSON.stringify(weddingEventJsonLd),
         children: JSON.stringify(weddingEventJsonLd),
       },
     ],
