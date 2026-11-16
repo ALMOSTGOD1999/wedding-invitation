@@ -13,7 +13,7 @@ describe("wedding invitation details", () => {
 
   it("keeps both families' supplied names, parents, and addresses", () => {
     expect(invitation.groom.name).toBe("Mr. Rahul Mukherjee");
-    expect(invitation.groom.father).toBe("Mr. Rajat kanti Mukherjee");
+    expect(invitation.groom.father).toBe("Mr. Rajat Kanti Mukherjee");
     expect(invitation.groom.mother).toBe("Mrs. Uma Mukherjee");
     expect(invitation.groom.address).toBe(
       "Shree Durga Pally, Mill Math, Nandalal Basu Road, Katwa, Purba Bardhaman, West Bengal.",
