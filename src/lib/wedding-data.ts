@@ -11,7 +11,7 @@ export const invitation = {
     venue: "SANDHIKHHAN",
     venueBn: "সন্ধিক্ষণ",
     city: "Katwa",
-    cityBn: "কটোয়া",
+    cityBn: "কাটোয়া",
     mapUrl: "https://www.google.com/maps?q=23.6405274,88.1342149&z=17&hl=en",
     contactNumbers: ["8617008081", "8926439491", "8926828468"],
     blessingOnly: true,
@@ -26,7 +26,7 @@ export const invitation = {
     motherBn: "শ্রীমতী উমা মুখার্জি",
     address:
       "Shree Durga Pally, Mill Math, Nandalal Basu Road, Katwa, Purba Bardhaman, West Bengal.",
-    addressBn: "শ্রী দুর্গাপল্লী, মিল মাঠ, নন্দলাল বসু রোড, কটোয়া, পূর্ব বর্ধমান, পশ্চিমবঙ্গ।",
+    addressBn: "শ্রীদুর্গাপল্লী, মিল মাঠ, নন্দলাল বসু রোড, কটোয়া, পূর্ব বর্ধমান, পশ্চিমবঙ্গ।",
   },
   bride: {
     side: "Bride",
